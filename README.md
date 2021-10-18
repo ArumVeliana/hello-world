@@ -1,6 +1,3 @@
-# hello-world
+# Analisis-Data
 
-Hi Humans! 
-
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!). 
-I've had tacos on the moon and find them far superior to Earth tacos. 
+TUGAS 2 DATA SAINS
